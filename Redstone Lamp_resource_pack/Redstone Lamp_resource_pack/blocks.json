@@ -1,0 +1,15 @@
+{
+  "darkgato:redstone_lamp_silver_on": {
+    "textures": "darkgato_redstone_lamp_silver_on",
+    "sound": "glass"
+  },
+  "darkgato:redstone_lamp_silver_off": {
+    "textures": "darkgato_redstone_lamp_silver_off",
+    "sound": "glass"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "darkgato_redstone_lamp_silver_on": {
+      "textures": [
+        "textures/blocks/darkgato_redstone_lamp_silver_on"
+      ]
+    },
+    "darkgato_redstone_lamp_silver_off": {
+      "textures": [
+        "textures/blocks/darkgato_redstone_lamp_silver_off"
+      ]
+    }
+  }
+}

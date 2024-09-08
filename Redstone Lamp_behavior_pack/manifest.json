@@ -1,0 +1,66 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Enjoy and have fun by Cloud",
+    "name": "Redstone Lamp",
+    "uuid": "cbecf3df-7577-4f03-ad43-af0e29c540d7",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Enjoy and have fun by Cloud",
+      "type": "data",
+      "uuid": "dd9598a7-8ab4-4d7b-bed6-925eb87a01cb",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "type": "script",
+      "uuid": "6b84f1a2-c42c-48a4-be3f-283af319f3cb",
+      "version": [
+        1,
+        0,
+        1
+      ],
+      "entry": "scripts/redstone_lamp_silver.js",
+      "language": "javascript"
+    },
+    {
+      "type": "script",
+      "uuid": "7f594b58-4b6a-464f-bd78-b42ab4920220",
+      "version": [
+        1,
+        0,
+        1
+      ],
+      "entry": "scripts/main.js",
+      "language": "javascript"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "39b0e634-a1a3-4a0a-a0ac-44dcd93023aa",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "version": "1.11.0",
+      "module_name": "@minecraft/server"
+    }
+  ]
+}

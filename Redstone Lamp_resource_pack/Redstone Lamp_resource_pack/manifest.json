@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Enjoy and have fun by Cloud",
+    "name": "Redstone Lamp",
+    "uuid": "39b0e634-a1a3-4a0a-a0ac-44dcd93023aa",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Enjoy and have fun by Cloud",
+      "type": "resources",
+      "uuid": "63033b89-9366-4ae6-8912-04e7588b85fe",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ]
+}
